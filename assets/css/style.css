@@ -1,0 +1,31 @@
+.main-heading{
+  text-align: center;
+  color: aqua;
+  background-color:darkblue;
+  font-family: 'Pacifico', cursive;
+}
+.second-heading{
+  text-align: center;
+  color: aqua;
+  background-color:darkblue;
+  font-family: 'Pacifico', cursive;
+}
+.paragraf-style{
+  text-indent: 1cm;
+}
+.nameArticl-heading{
+  text-align: center;
+  color: aqua;
+  background-color:darkblue;
+  font-family: 'Pacifico', cursive;
+}
+.heading-image{
+  text-align: center;
+  background-color:darkblue;
+}
+.href-image{
+  text-align: center;
+  color:aqua;
+  background-color:darkblue;
+  font-family: 'Pacifico', cursive;
+}
