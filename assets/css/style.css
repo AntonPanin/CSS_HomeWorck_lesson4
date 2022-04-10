@@ -1,31 +1,17 @@
-.main-heading{
+.heading-backgrount{
+  color: aliceblue;
+  background-color:#483d8b;
+  text-transform: capitalize;
   text-align: center;
-  color: aqua;
-  background-color:darkblue;
-  font-family: 'Pacifico', cursive;
+  font-family: sans-serif;
+  font-size: 30px;
 }
-.second-heading{
+.articl-heading{
+  color: #483d8b;
+  text-transform: uppercase;
   text-align: center;
-  color: aqua;
-  background-color:darkblue;
-  font-family: 'Pacifico', cursive;
 }
 .paragraf-style{
-  text-indent: 1cm;
-}
-.nameArticl-heading{
-  text-align: center;
-  color: aqua;
-  background-color:darkblue;
-  font-family: 'Pacifico', cursive;
-}
-.heading-image{
-  text-align: center;
-  background-color:darkblue;
-}
-.href-image{
-  text-align: center;
-  color:aqua;
-  background-color:darkblue;
-  font-family: 'Pacifico', cursive;
+  color: #483d8b;
+  text-indent: 0.5cm;
 }
